@@ -1,0 +1,14 @@
+ver 1.0
+get news data from google
+--> cannot get data from google news
+
+ver 1.1
+get news data from naver news
+we can use naver api to get data
+
+ver 2.0
+think about stocks
+print the price of stock which user entered
+
+ver 2.1
+GUI using tkinter added

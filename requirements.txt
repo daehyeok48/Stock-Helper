@@ -1,0 +1,6 @@
+logging
+tkinter
+requests
+bs4
+pandas
+webbrowser
